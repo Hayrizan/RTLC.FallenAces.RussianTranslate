@@ -1,0 +1,26 @@
+[
+  {
+    "name": "FallenAces.CSharp.dll",
+    "sha256": "0C90013917C23AA8911B2C2DD8F4054B9F1DAFF3776E2134B6C0390BAAE0E64D",
+    "mvid": "68d2bf92-9d3d-47a5-9594-cdb854528622",
+    "methods": 16436,
+    "literalOccurrences": 5424,
+    "uniqueLiterals": 3202
+  },
+  {
+    "name": "Assembly-CSharp.dll",
+    "sha256": "E47C1F622EC68DCB28134E16DDA651768C2A5CC3D9EF6BD77F0BBF5B26B91921",
+    "mvid": "5f1183d5-042c-4c92-8c15-a413f579e481",
+    "methods": 98,
+    "literalOccurrences": 35,
+    "uniqueLiterals": 32
+  },
+  {
+    "name": "PackageTools.dll",
+    "sha256": "9598E4244CFE775A36DAA790F69A266049ED03CC2D311F6CDB6401A1035C8985",
+    "mvid": "86366c22-3908-4a4e-891e-d693acd0be4a",
+    "methods": 73,
+    "literalOccurrences": 26,
+    "uniqueLiterals": 22
+  }
+]

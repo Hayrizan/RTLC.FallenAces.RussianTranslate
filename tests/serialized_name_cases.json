@@ -1,0 +1,318 @@
+{
+  "Big Palooka": {
+    "expected": "\u0417\u0434\u043e\u0440\u043e\u0432\u0438\u043b\u0430",
+    "locations": [
+      "EnemyConfig/Big Palooka/_printName"
+    ]
+  },
+  "Civilian Male": {
+    "expected": "\u041c\u0438\u0440\u043d\u044b\u0439 \u0436\u0438\u0442\u0435\u043b\u044c",
+    "locations": [
+      "EnemyConfig/Civilian Male/m_Name"
+    ]
+  },
+  "Civilian Merchant": {
+    "expected": "\u0422\u043e\u0440\u0433\u043e\u0432\u0435\u0446",
+    "locations": [
+      "EnemyConfig/Civilian Merchant/m_Name"
+    ]
+  },
+  "Armed Goon": {
+    "expected": "\u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0439 \u0431\u0430\u043d\u0434\u0438\u0442",
+    "locations": [
+      "EnemyConfig/Armed Goon/_printName"
+    ]
+  },
+  "Throttlin' Goon": {
+    "expected": "\u0411\u0430\u043d\u0434\u0438\u0442-\u0434\u0443\u0448\u0438\u0442\u0435\u043b\u044c",
+    "locations": [
+      "EnemyConfig/Throttlin' Goon/_printName"
+    ]
+  },
+  "Unarmed Goon": {
+    "expected": "\u0411\u0435\u0437\u043e\u0440\u0443\u0436\u043d\u044b\u0439 \u0431\u0430\u043d\u0434\u0438\u0442",
+    "locations": [
+      "EnemyConfig/Unarmed Goon/_printName"
+    ]
+  },
+  "Knife Wielding Hood": {
+    "expected": "\u0411\u0430\u043d\u0434\u0438\u0442 \u0441 \u043d\u043e\u0436\u043e\u043c",
+    "locations": [
+      "EnemyConfig/Knife Wielding Hood/_printName"
+    ]
+  },
+  "Machine Gun Mook": {
+    "expected": "\u041f\u0443\u043b\u0435\u043c\u0451\u0442\u0447\u0438\u043a",
+    "locations": [
+      "EnemyConfig/Machine Gun Mook/m_Name"
+    ]
+  },
+  "\"Matches\" Malone": {
+    "expected": "\u041c\u044d\u043b\u043e\u0443\u043d \u043f\u043e \u043a\u043b\u0438\u0447\u043a\u0435 \u00ab\u0421\u043f\u0438\u0447\u043a\u0430\u00bb",
+    "locations": [
+      "EnemyConfig/Matches Malone/_printName"
+    ]
+  },
+  "Molotov Mook": {
+    "expected": "\u0413\u0440\u043e\u043c\u0438\u043b\u0430 \u0441 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u0435\u043c \u041c\u043e\u043b\u043e\u0442\u043e\u0432\u0430",
+    "locations": [
+      "EnemyConfig/Molotov Mook/m_Name"
+    ]
+  },
+  "Pipe Wielding Mook": {
+    "expected": "\u0413\u0440\u043e\u043c\u0438\u043b\u0430 \u0441 \u0442\u0440\u0443\u0431\u043e\u0439",
+    "locations": [
+      "EnemyConfig/Pipe Wielding Mook/_printName"
+    ]
+  },
+  "Pistol Toting Mook": {
+    "expected": "\u0413\u0440\u043e\u043c\u0438\u043b\u0430 \u0441 \u043f\u0438\u0441\u0442\u043e\u043b\u0435\u0442\u043e\u043c",
+    "locations": [
+      "EnemyConfig/Pistol Toting Mook/m_Name"
+    ]
+  },
+  "Sniping Mook": {
+    "expected": "\u0421\u043d\u0430\u0439\u043f\u0435\u0440",
+    "locations": [
+      "EnemyConfig/Sniping Mook/m_Name"
+    ]
+  },
+  "Bear": {
+    "expected": "\u041c\u0435\u0434\u0432\u0435\u0434\u044c",
+    "locations": [
+      "EnemyConfig/Bear/_printName"
+    ]
+  },
+  "Delaney": {
+    "expected": "\u0414\u0435\u043b\u0430\u043d\u0438",
+    "locations": [
+      "EnemyConfig/Delaney/_printName"
+    ]
+  },
+  "Delia": {
+    "expected": "\u0414\u0435\u043b\u0438\u044f",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Hector": {
+    "expected": "\u0413\u0435\u043a\u0442\u043e\u0440",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Hobo": {
+    "expected": "\u0411\u0440\u043e\u0434\u044f\u0433\u0430",
+    "locations": [
+      "EnemyConfig/NPC Hobo/_printName"
+    ]
+  },
+  "Nightwave": {
+    "expected": "\u041d\u043e\u0447\u043d\u0430\u044f \u0412\u043e\u043b\u043d\u0430",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Shark": {
+    "expected": "\u0410\u043a\u0443\u043b\u0430",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Shorty": {
+    "expected": "\u041a\u043e\u0440\u043e\u0442\u044b\u0448\u043a\u0430",
+    "locations": [
+      "EnemyConfig/Shorty/_printName"
+    ]
+  },
+  "Shotty": {
+    "expected": "\u0428\u043e\u0442\u0442\u0438",
+    "locations": [
+      "EnemyConfig/Shotty/_printName"
+    ]
+  },
+  "VISE Patrolman": {
+    "expected": "\u041f\u0430\u0442\u0440\u0443\u043b\u044c\u043d\u044b\u0439 \u00ab\u0412\u0430\u0439\u0441\u00bb",
+    "locations": [
+      "EnemyConfig/VISE Patrolman - Config/_printName"
+    ]
+  },
+  "VISE Sergeant": {
+    "expected": "\u0421\u0435\u0440\u0436\u0430\u043d\u0442 \u00ab\u0412\u0430\u0439\u0441\u00bb",
+    "locations": [
+      "EnemyConfig/VISE Sergeant - Config/_printName"
+    ]
+  },
+  "Whitman": {
+    "expected": "\u0423\u0438\u0442\u043c\u0435\u043d",
+    "locations": [
+      "EnemyConfig/Whitman/m_Name"
+    ]
+  },
+  "Spadey": {
+    "expected": "\u0421\u043f\u0435\u0439\u0434\u0438",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Slot Machine": {
+    "expected": "\u0418\u0433\u0440\u043e\u0432\u043e\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442",
+    "locations": [
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Up": {
+    "expected": "\u0412\u0432\u0435\u0440\u0445",
+    "locations": [
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Water Cooler": {
+    "expected": "\u041a\u0443\u043b\u0435\u0440",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Digit": {
+    "expected": "\u0426\u0438\u0444\u0440\u0430",
+    "locations": [
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Down": {
+    "expected": "\u0412\u043d\u0438\u0437",
+    "locations": [
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Pullchain": {
+    "expected": "\u0426\u0435\u043f\u043e\u0447\u043a\u0430 \u0441\u043c\u044b\u0432\u0430",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Radio": {
+    "expected": "\u0420\u0430\u0434\u0438\u043e",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Cigarette": {
+    "expected": "\u0421\u0438\u0433\u0430\u0440\u0435\u0442\u0430",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Blake": {
+    "expected": "\u0411\u043b\u0435\u0439\u043a",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Lever": {
+    "expected": "\u0420\u044b\u0447\u0430\u0433",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Trunk": {
+    "expected": "\u0411\u0430\u0433\u0430\u0436\u043d\u0438\u043a",
+    "locations": [
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name",
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Phonograph": {
+    "expected": "\u041f\u0430\u0442\u0435\u0444\u043e\u043d",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Till Handle": {
+    "expected": "\u0420\u0443\u0447\u043a\u0430 \u043a\u0430\u0441\u0441\u044b",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Meredith": {
+    "expected": "\u041c\u0435\u0440\u0435\u0434\u0438\u0442",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Door": {
+    "expected": "\u0414\u0432\u0435\u0440\u044c",
+    "locations": [
+      "LookatableHandler/prefab component/_name"
+    ]
+  },
+  "Curtain": {
+    "expected": "\u0417\u0430\u043d\u0430\u0432\u0435\u0441\u043a\u0430",
+    "locations": [
+      "DoorEffectSet/Curtain/_customName"
+    ]
+  },
+  "Fridge Door": {
+    "expected": "\u0414\u0432\u0435\u0440\u0446\u0430 \u0445\u043e\u043b\u043e\u0434\u0438\u043b\u044c\u043d\u0438\u043a\u0430",
+    "locations": [
+      "DoorEffectSet/Fridge/_customName"
+    ]
+  },
+  "Window": {
+    "expected": "\u041e\u043a\u043d\u043e",
+    "locations": [
+      "DoorEffectSet/Glass Sliding/_customName"
+    ]
+  },
+  "Gate": {
+    "expected": "\u0412\u043e\u0440\u043e\u0442\u0430",
+    "locations": [
+      "DoorEffectSet/Metal Gate/_customName",
+      "DoorEffectSet/Security Gate/_customName"
+    ]
+  },
+  "Vent": {
+    "expected": "\u0412\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0440\u0435\u0448\u0451\u0442\u043a\u0430",
+    "locations": [
+      "DoorEffectSet/Vent/_customName"
+    ]
+  },
+  "Sliding Door": {
+    "expected": "\u0420\u0430\u0437\u0434\u0432\u0438\u0436\u043d\u0430\u044f \u0434\u0432\u0435\u0440\u044c",
+    "locations": [
+      "DoorEffectSet/Wooden Sliding/_customName"
+    ]
+  },
+  "Cola Machine": {
+    "expected": "\u0410\u0432\u0442\u043e\u043c\u0430\u0442 \u0441 \u043a\u043e\u043b\u043e\u0439",
+    "locations": [
+      "VendingMachine//_name"
+    ]
+  },
+  "Cigarette Machine": {
+    "expected": "\u0421\u0438\u0433\u0430\u0440\u0435\u0442\u043d\u044b\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442",
+    "locations": [
+      "VendingMachine//_name"
+    ]
+  },
+  "Ladder": {
+    "expected": "\u041b\u0435\u0441\u0442\u043d\u0438\u0446\u0430",
+    "locations": [
+      "LadderEffectSet/Metal/_name"
+    ]
+  },
+  "Net": {
+    "expected": "\u0412\u0435\u0440\u0451\u0432\u043a\u0438",
+    "locations": [
+      "LadderEffectSet/Net/_name"
+    ]
+  }
+}

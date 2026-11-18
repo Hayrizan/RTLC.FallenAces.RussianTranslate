@@ -1,0 +1,9 @@
+Third-party components in this release
+
+BepInEx 5.4.23.5 (BepInEx Team / Bepis) is distributed under the MIT License. See BepInEx-MIT.txt.
+
+TroubleSide (Evgeny Koroletov; Lugansk Contemporary Diaspora) is distributed under the SIL Open Font License 1.1. See TroubleSide-OFL.txt. Original font: https://www.fontspace.com/troubleside-font-f58132
+
+Josefin Sans Extended is based on Josefin Sans and distributed under the SIL Open Font License 1.1. See JosefinSans-OFL.txt.
+
+Brush Script Std (Adobe Systems Incorporated) and Broadway Cyrillic Extended (Copyright (c) 1992) are included under separate redistribution permissions held by the project maintainer. Their respective owners retain all rights.
